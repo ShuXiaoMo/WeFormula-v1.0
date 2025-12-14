@@ -34,4 +34,4 @@
 ---
 
 ## ⭐ Star 趋势
-<img src="star-history-20251214.png" height="800" />
+![Star History](https://api.star-history.com/svg?repos=ShuXiaoMo/WeFormula-v1.0&type=Date)
