@@ -1,4 +1,4 @@
-#  <img src="项目LOGO.jpg" style="height:1.5em; margin-right:0em;"> WeFormula-v1.0
+#  <img src="project_LOGO.jpg" style="height:1.5em; margin-right:0em;"> WeFormula-v1.0
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)]([如何在微信公众号优雅地插入数学公式？](https://mp.weixin.qq.com/s/LH2ml3kfTYLVWVNcxzSGEA))
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
