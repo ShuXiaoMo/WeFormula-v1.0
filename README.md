@@ -34,7 +34,7 @@ This is the official repository for the **WeFormula-v1.0**.
 
 ​	Once you purchase it, you can get started in no time!
 
-<img src="D:\数小模\WeFormula-v1.0项目-待办\github\宣传商业海报.png" style="zoom: 50%;" />
+<img src="teaser.jpg" style="height:1.5em; margin-right:0em;">
 
 
 ---
