@@ -44,4 +44,4 @@ This is the official repository for the **WeFormula-v1.0**.
 
 
 
-<img src="star-history-20251214.png" style="zoom: 25%;" />
+<img src="star-history-20251214.png" style="zoom: 15%;" />
