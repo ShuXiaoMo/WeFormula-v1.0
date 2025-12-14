@@ -1,4 +1,4 @@
-# &lt;img src="project_LOGO.jpg" style="height:1.5em; margin-right:0em;"&gt; WeFormula-v1.0
+#  <img src="project_LOGO.jpg" style="height:1.5em; margin-right:0em;"> WeFormula-v1.0
 
 [![项目主页](https://img.shields.io/badge/项目-主页-green)]([如何在微信公众号优雅地插入数学公式？](https://mp.weixin.qq.com/s/LH2ml3kfTYLVWVNcxzSGEA))
 
