@@ -4,6 +4,7 @@
 
 
 This is the official repository for the **WeFormula-v1.0**.
+[中文介绍](README_zh.md)
 ## 📰 News
 
 *   **[2025-12-14]** We’ve released the purchase link for **WeFormula-v1.0**!
