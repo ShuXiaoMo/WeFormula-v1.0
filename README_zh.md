@@ -30,7 +30,8 @@
 
 ​	购买后即可一键启用！
 
----
 <img src="teaser.png" height="800" />
+---
+
 ## ⭐ Star 趋势
 <img src="star-history-20251214.png" height="800" />
