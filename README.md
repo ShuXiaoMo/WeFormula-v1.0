@@ -45,4 +45,4 @@ This is the official repository for the **WeFormula-v1.0**.
 
 
 
-<img src="star-history-20251214.png" style="zoom: 15%;" />
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#ShuXiaoMo/WeFormula-v1.0&type=date&legend=top-left" frameBorder="0"></iframe>
